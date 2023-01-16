@@ -121,7 +121,7 @@ pygments==2.14.0
     #   sphinx
 pyproject-api==1.4.0
     # via tox
-pytest==7.2.0; python_version >= "3.7"
+pytest==7.2.1; python_version >= "3.7"
     # via
     #   cryptography (setup.cfg)
     #   pytest-benchmark
